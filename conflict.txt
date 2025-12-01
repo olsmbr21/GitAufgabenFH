@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Version aus Repo2
+=======
+Version aus Repo1
+>>>>>>> bdda998a7ad18694f914abdce5f0ffce1360c91f
